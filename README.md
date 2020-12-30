@@ -1,2 +1,2 @@
 # accelerator-code
-all the code needed for the accelerator, as well as instructions on what to do.
+This just includes the python program with the multiprocessing in it. Also included in the script file for easy copy and pasting.
