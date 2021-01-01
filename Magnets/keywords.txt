@@ -1,0 +1,12 @@
+coilSystem	KEYWORD1
+indicatorClass	KEYWORD1
+on	LITERAL1
+analogReadingreturn	LITERAL1
+analogReading_serialPrint	LITERAL1
+analogReadingcheck	LITERAL1
+off	LITERAL1
+coilSystemcheck	LITERAL1
+beamSystemon	LITERAL1
+mosfetOn	LITERAL1
+beamSystemoff	LITERAL1
+mosfetOff	LITERAL1
