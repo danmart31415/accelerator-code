@@ -4,6 +4,8 @@ To run all you need are:
   -Magnets_12_31_2020.zip
   -Arduino_Code.zip
 
+CHANGE YOUR PATHS IN THE FUNCTIONS FILE
+
 Upload these to your desktop, but move the magnet folder to where you keep your arduino libraries (most likely documents if you have not changed it).
 
 You should be able to run just the functions and script_v2 files on whatever IDE you use, but you can definitely run the Arduino_Python_v2_1_13_2021 on Atom.io.
