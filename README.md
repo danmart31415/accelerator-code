@@ -1,6 +1,6 @@
 # accelerator-code
 To run all you need are:
-  -Arduino_Python_v2_1_13_2021.zip
+	-Arduino_Python_v2_1_13_2021.zip
   -Magnets_12_31_2020.zip
   -Arduino_Code.zip
 
